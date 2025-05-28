@@ -85,15 +85,3 @@ This section models the optimal production and distribution strategy for a compa
 
 - Part 1 is designed for teaching Discrete Event Simulation in operations/service analytics.
 - Part 2 demonstrates applied Mixed Integer Programming in supply chain contexts.
-
----
-
-## 📁 Repository Structure
-
-```bash
-.
-├── call_centre_simulation.ipynb       # Jupyter notebook for Call Centre Simulation
-├── supply_chain_optimization.ipynb    # Jupyter notebook for MILP problem
-├── data/
-│   └── call_data_simulated.csv        # Simulated call log dataset
-├── README.md                          # Project documentation
