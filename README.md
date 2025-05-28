@@ -50,7 +50,7 @@ A simulated environment is created to model a call centre's operations over a fu
 
 ---
 
-### 🔹 2. Mixed Integer Linear Programming – Supply Chain Optimization
+### 🔹 2. Linear Programming – Supply Chain Optimization
 
 This section models the optimal production and distribution strategy for a company manufacturing 3 products and delivering to 2 regional warehouses.
 
